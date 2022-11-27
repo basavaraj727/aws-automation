@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="test cases">
+<test name="Amazon add to cart">
+<classes>
+<class name="com.amazon.addtocart.Amazonaddtocart"></class>
+</classes>
+</test>
+</suite>

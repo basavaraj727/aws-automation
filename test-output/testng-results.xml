@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-17T10:16:40 IST" name="Default suite" finished-at="2022-10-17T10:17:02 IST" duration-ms="22349">
+    <groups>
+    </groups>
+    <test started-at="2022-10-17T10:16:40 IST" name="Default test" finished-at="2022-10-17T10:17:02 IST" duration-ms="22349">
+      <class name="com.amazon.addtocart.Amazonaddtocart">
+        <test-method signature="launchBrowser()[pri:1, instance:com.amazon.addtocart.Amazonaddtocart@63a12c68]" started-at="2022-10-17T10:16:40 IST" name="launchBrowser" finished-at="2022-10-17T10:16:45 IST" duration-ms="4729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="navigate()[pri:2, instance:com.amazon.addtocart.Amazonaddtocart@63a12c68]" started-at="2022-10-17T10:16:45 IST" name="navigate" finished-at="2022-10-17T10:16:52 IST" duration-ms="7116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method signature="selectitem()[pri:3, instance:com.amazon.addtocart.Amazonaddtocart@63a12c68]" started-at="2022-10-17T10:16:52 IST" name="selectitem" finished-at="2022-10-17T10:17:02 IST" duration-ms="10358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectitem -->
+        <test-method signature="writedatatocsv()[pri:4, instance:com.amazon.addtocart.Amazonaddtocart@63a12c68]" started-at="2022-10-17T10:17:02 IST" name="writedatatocsv" finished-at="2022-10-17T10:17:02 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writedatatocsv -->
+      </class> <!-- com.amazon.addtocart.Amazonaddtocart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
